@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DotNetEducation/v17/.wsuo
+/.vs/DotNetEducation/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
+/gRPC_Space/.vs/gRPC_Space/FileContentIndex/505b94bb-0747-4ef7-b177-904a5f085a10.vsidx
+/gRPC_Space/.vs/gRPC_Space/FileContentIndex/edcaee1b-ff14-4bae-9656-3c15b2ab9a77.vsidx
