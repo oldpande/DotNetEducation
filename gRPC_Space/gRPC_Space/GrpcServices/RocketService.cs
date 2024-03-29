@@ -1,6 +1,6 @@
-﻿namespace gRPC_Space.GrpcServices;
+﻿namespace CustomGrpcSpace.GrpcServices;
 
-public class RocketService
+public class RocketService 
 {
 
 }

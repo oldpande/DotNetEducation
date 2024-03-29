@@ -1,0 +1,7 @@
+C:\DotNetEducation\gRPC_Space\GrpcServiceSpace\obj\Debug\net8.0\GrpcServiceSpace.csproj.AssemblyReference.cache
+C:\DotNetEducation\gRPC_Space\GrpcServiceSpace\obj\Debug\net8.0\GrpcServiceSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetEducation\gRPC_Space\GrpcServiceSpace\obj\Debug\net8.0\GrpcServiceSpace.AssemblyInfoInputs.cache
+C:\DotNetEducation\gRPC_Space\GrpcServiceSpace\obj\Debug\net8.0\GrpcServiceSpace.AssemblyInfo.cs
+C:\DotNetEducation\gRPC_Space\GrpcServiceSpace\obj\Debug\net8.0\GrpcServiceSpace.csproj.CoreCompileInputs.cache
+C:\DotNetEducation\gRPC_Space\GrpcServiceSpace\obj\Debug\net8.0\GrpcServiceSpace.MvcApplicationPartsAssemblyInfo.cache
+C:\DotNetEducation\gRPC_Space\GrpcServiceSpace\obj\Debug\net8.0\GrpcServiceSpace.sourcelink.json

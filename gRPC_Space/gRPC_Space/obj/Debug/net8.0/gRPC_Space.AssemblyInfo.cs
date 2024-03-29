@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gRPC_Space")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5b24c780d9d7fc67884cc078a4b9ce2a81fc49a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc8fd36f3aa1d1a8f6a60a1faa6b0eef36053425")]
 [assembly: System.Reflection.AssemblyProductAttribute("gRPC_Space")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gRPC_Space")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

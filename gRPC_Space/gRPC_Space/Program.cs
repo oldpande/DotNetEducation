@@ -1,4 +1,4 @@
-using gRPC_Space.GrpcServices;
+using CustomGrpcSpace.GrpcServices;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tWp6H+RjpPSSnYs2D1n9GsHBBQ67tDpBlgR/tHiuhKM=",
+  "Source": "GrpcServiceSpace.Client",
+  "BasePath": "_content/GrpcServiceSpace.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
